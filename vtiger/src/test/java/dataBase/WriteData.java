@@ -19,6 +19,8 @@ public class WriteData {
 
 		if(result==1) {
 			System.out.println("Data base has been updated");
+			System.out.println("Data base has been updated");
+
 		}
 		
 		else
